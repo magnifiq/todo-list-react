@@ -1,3 +1,9 @@
+# ToDo list for managing user's plans
+
+-- The app was created to develop skills in React and JavaScript
+
+-- The last version was released in 10/12/2022
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
